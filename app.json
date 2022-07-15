@@ -1,5 +1,5 @@
 {
-    "name": "nginx-proxy",
+    "name": "nginx",
     "description": "Deploy nginx-proxy on Heroku.",
     "keywords": ["nginx-proxy"],
     "env": {
@@ -9,6 +9,6 @@
         }
     },
     "website": "",
-    "repository": "https://github.com/GCTY-LN/nginx-proxy-heroku",
+    "repository": "https://github.com/GCTY-LN/heroku",
     "stack": "container"
 }
